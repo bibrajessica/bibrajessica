@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jessica 👋
 
-<!--
-**bibrajessica/bibrajessica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Engineer | LLMs | NLP | Computer Vision
 
-Here are some ideas to get you started:
+🚀 I build real-world AI systems including chatbots, semantic search, and deep learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+
+Python | FastAPI | LangChain | LangGraph | HuggingFace
+TensorFlow | PyTorch | OpenCV | FAISS | Qdrant
+
+### 📌 Featured Work
+
+* Semantic Resume Matching System (Embeddings + FAISS)
+* Enterprise AI Chatbot (LLM + FastAPI)
+* Agentic AI System (LangGraph)
+
+### 💼 Experience
+
+AI Developer @ Kamsora Technologies
+
+### 📫 Connect with me
+
+LinkedIn: https://www.linkedin.com/in/jessica-bibra/
