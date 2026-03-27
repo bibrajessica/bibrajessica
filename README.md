@@ -11,9 +11,9 @@ TensorFlow | PyTorch | OpenCV | FAISS | Qdrant
 
 ### 📌 Featured Work
 
-* Semantic Resume Matching System (Embeddings + FAISS)
 * Enterprise AI Chatbot (LLM + FastAPI)
 * Agentic AI System (LangGraph)
+* Semantic Resume Matching System (Embeddings + FAISS)
 
 ### 💼 Experience
 
