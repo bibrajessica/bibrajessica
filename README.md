@@ -18,7 +18,4 @@ TensorFlow | PyTorch | OpenCV | FAISS | Qdrant
 ### 💼 Experience
 
 AI Developer @ Kamsora Technologies
-
-### 📫 Connect with me
-
-LinkedIn: https://www.linkedin.com/in/jessica-bibra/
+/
