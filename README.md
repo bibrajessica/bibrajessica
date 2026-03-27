@@ -18,4 +18,4 @@ TensorFlow | PyTorch | OpenCV | FAISS | Qdrant
 ### 💼 Experience
 
 AI Developer @ Kamsora Technologies
-/
+
